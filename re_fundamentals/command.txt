@@ -1,0 +1,1 @@
+readelf -W -S task1
